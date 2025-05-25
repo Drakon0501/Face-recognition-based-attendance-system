@@ -30,7 +30,7 @@
 ![Screenshot (103)](https://user-images.githubusercontent.com/26384517/86820502-c7f44500-c0a6-11ea-9530-6317ec2059d9.png)
 
 ## While taking Attendance
-![Screenshot (91)](Project Snap/1.png)
+![Screenshot (91)](https://github.com/Drakon0501/Face-recognition-based-attendance-system/blob/99402133c35cedf1a354a231c054b873f8880331/Project%20Snap/1.png)
 
 ## Attendance in tabular format 
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
